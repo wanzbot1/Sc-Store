@@ -531,32 +531,57 @@ case 'diamondfreefire':
 gambar = fs.readFileSync('./media/qr.jpg')
 menunya = `*「 DIAMOND FREEFIRE 」*
 
-• *12 DIAMOND = 2.000*
-• *20 DIAMOND = 3.000*
-• *50 DIAMOND = 7.000*
-• *70 DIAMOND = 10.000*
-• *100 DIAMOND = 14.000*
-• *140 DIAMOND = 19.000*
-• *150 DIAMOND = 20.000*
-• *210 DIAMOND = 28.000*
-• *280 DIAMOND = 37.000*
-• *355 DIAMOND = 47.000*
-• *425 DIAMOND = 56.000*
-• *500 DIAMOND = 65.000*
-• *635 DIAMOND = 83.000*
-• *720 DIAMOND = 92.000*
-• *1.075 DIAMOND = 138.000*
-• *2.000 DIAMOND = 251.000*
-• *3.440 DIAMOND = 434.000*
-• *4.000 DIAMOND = 500.000*
-• *6.000 DIAMOND = 750.000*
-• *7.290 DIAMOND = 918.000*
-• *8.010 DIAMOND = 1.167.600*
+• *100 DIAMOND = RM5*
+• *235 DIAMOND = RM10*
+• *50 DIAMOND = RM15*
+• *520 DIAMOND = RM20*
+• *820 DIAMOND = RM30*
+• *1080 DIAMOND = RM40*
+• *1415 DIAMOND = RM50*
+• *1600 DIAMOND = RM60*
+• *1775 DIAMOND = RM70*
+• *2220 DIAMOND = RM80*
+• *2620 DIAMOND = RM90*
+• *2845 DIAMOND = RM100*
+
+*TOLONG FULLKAN TQ❤️*
+
+*💎🐉ICEDRAGONSTORE 🐉💎V.1*
+https://chat.whatsapp.com/InGv0vePPhfEQ4KfNMhDkx
+*💎🐉ICEDRAGONSTORE 🐉💎V.2*
+https://chat.whatsapp.com/EbUBXpG3BoX749T7fMt8WUu
+*💎🐉ICEDRAGONSTORE🐉💎V.3*
+https://chat.whatsapp.com/Httx56Gkg39LXFmmZLOyEk
+*💎🐉ICEDRAGONSTORE🐉💎V.4*
+https://chat.whatsapp.com/LZ297qUAde3LgWRtQPkjUg
+*💎🐉ICEDRAGONSTORE🐉💎V.5*
+https://chat.whatsapp.com/I15ZAqMk2nGInNwNU61iX9
+*💎🐉ICEDRAGONSTORE🐉💎V.6*
+https://chat.whatsapp.com/F7izPsA2s0w3xiD8LrB3P4
+*💎🐉ICEDRAGONSTORE🐉💎V.7*
+https://chat.whatsapp.com/CNxLmjDX0R6D6t65R39cQO
+*💎🐉ICEDRAGONSTORE🐉💎V.8*
+https://chat.whatsapp.com/B9FiwTCBhgP20KMEfMVFum
+*💎🐉ICEDRAGONSTORE🐉💎V.9*
+https://chat.whatsapp.com/Bz6xU7NQ9eqC2KGCVNQTpO
+*💎🐉ICEDRAGONSTORE🐉💎V.10*
+https://chat.whatsapp.com/EYI8s5T8gaz51WqMvjWnn0
+*💎🐉ICEDRAGONSTORE🐉💎V.11*
+https://chat.whatsapp.com/FnKb4T29yYECbDio85lvrX
+*💎🐉ICEDRAGONSTORE🐉💎V.12*
+https://chat.whatsapp.com/KKONPCc2QxrA2sKr321BTF
+*💎🐉ICEDRAGONSTORE🐉💎V.13*
+https://chat.whatsapp.com/BnmZimLIgGS4ay7Bjcgf33
+*LINK FEEDBACK👇🏻*
+*- 1200+ FEEDBACK -*
+https://t.me/icedragonstore
+*DIRECT CHAT*
+https://api.whatsapp.com/send?phone=+601135268529&text=aslm+nk+beli+dm
 
 *「 Member Ship 」*
 
-• *MM = Rp 29.000*
-• *MB = Rp 140.000*`
+• *MM = RM 10*
+• *MB = RM 40*`
 teks =
 `「 ${botname} 」\n*${tanggal}*`
 but = [
